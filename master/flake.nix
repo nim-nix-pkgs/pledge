@@ -1,5 +1,5 @@
 {
-  description = ''OpenBSDs pledge(2) for Nim.'';
+  description = ''A wrapper around OpenBSD's pledge(2) systemcall for Nim.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,7 +9,7 @@
   
   inputs.src-pledge-master.flake = false;
   inputs.src-pledge-master.owner = "euantorano";
-  inputs.src-pledge-master.ref   = "refs/heads/master";
+  inputs.src-pledge-master.ref   = "master";
   inputs.src-pledge-master.repo  = "pledge.nim";
   inputs.src-pledge-master.type  = "github";
   
