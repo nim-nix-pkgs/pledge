@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-pledge-master.flake = false;
+  inputs.src-pledge-master.ref   = "refs/heads/master";
   inputs.src-pledge-master.owner = "euantorano";
-  inputs.src-pledge-master.ref   = "master";
   inputs.src-pledge-master.repo  = "pledge.nim";
   inputs.src-pledge-master.type  = "github";
   
