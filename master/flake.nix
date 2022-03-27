@@ -11,6 +11,7 @@
   inputs.src-pledge-master.ref   = "refs/heads/master";
   inputs.src-pledge-master.owner = "euantorano";
   inputs.src-pledge-master.repo  = "pledge.nim";
+  inputs.src-pledge-master.dir   = "";
   inputs.src-pledge-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
