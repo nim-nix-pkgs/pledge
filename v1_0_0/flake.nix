@@ -11,7 +11,6 @@
   inputs.src-pledge-v1_0_0.ref   = "refs/tags/v1.0.0";
   inputs.src-pledge-v1_0_0.owner = "euantorano";
   inputs.src-pledge-v1_0_0.repo  = "pledge.nim";
-  inputs.src-pledge-v1_0_0.dir   = "";
   inputs.src-pledge-v1_0_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
