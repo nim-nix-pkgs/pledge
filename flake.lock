@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657153208,
-        "narHash": "sha256-z95m6cU10BSxQgGlDz93Falh1Frc8k16b/et+CAAQt0=",
+        "lastModified": 1658018184,
+        "narHash": "sha256-EyKMCJIubvn9UsyKjj5VF9d4/gvUDoCF6rs940dj6dk=",
         "owner": "nim-nix-pkgs",
         "repo": "pledge",
-        "rev": "e1ac517fc8f2768179bc278a536bd10c395c4480",
+        "rev": "6fb64e1d2573f7fb882e869d078ce76cd3a90b49",
         "type": "github"
       },
       "original": {
@@ -72,11 +72,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1657153208,
-        "narHash": "sha256-z95m6cU10BSxQgGlDz93Falh1Frc8k16b/et+CAAQt0=",
+        "lastModified": 1658018184,
+        "narHash": "sha256-EyKMCJIubvn9UsyKjj5VF9d4/gvUDoCF6rs940dj6dk=",
         "owner": "nim-nix-pkgs",
         "repo": "pledge",
-        "rev": "e1ac517fc8f2768179bc278a536bd10c395c4480",
+        "rev": "6fb64e1d2573f7fb882e869d078ce76cd3a90b49",
         "type": "github"
       },
       "original": {
@@ -99,11 +99,11 @@
       },
       "locked": {
         "dir": "v1_0_1",
-        "lastModified": 1657153208,
-        "narHash": "sha256-z95m6cU10BSxQgGlDz93Falh1Frc8k16b/et+CAAQt0=",
+        "lastModified": 1658018184,
+        "narHash": "sha256-EyKMCJIubvn9UsyKjj5VF9d4/gvUDoCF6rs940dj6dk=",
         "owner": "nim-nix-pkgs",
         "repo": "pledge",
-        "rev": "e1ac517fc8f2768179bc278a536bd10c395c4480",
+        "rev": "6fb64e1d2573f7fb882e869d078ce76cd3a90b49",
         "type": "github"
       },
       "original": {
@@ -126,11 +126,11 @@
       },
       "locked": {
         "dir": "v1_0_2",
-        "lastModified": 1657153208,
-        "narHash": "sha256-z95m6cU10BSxQgGlDz93Falh1Frc8k16b/et+CAAQt0=",
+        "lastModified": 1658018184,
+        "narHash": "sha256-EyKMCJIubvn9UsyKjj5VF9d4/gvUDoCF6rs940dj6dk=",
         "owner": "nim-nix-pkgs",
         "repo": "pledge",
-        "rev": "e1ac517fc8f2768179bc278a536bd10c395c4480",
+        "rev": "6fb64e1d2573f7fb882e869d078ce76cd3a90b49",
         "type": "github"
       },
       "original": {
@@ -153,11 +153,11 @@
       },
       "locked": {
         "dir": "v1_1_0",
-        "lastModified": 1657153208,
-        "narHash": "sha256-z95m6cU10BSxQgGlDz93Falh1Frc8k16b/et+CAAQt0=",
+        "lastModified": 1658018184,
+        "narHash": "sha256-EyKMCJIubvn9UsyKjj5VF9d4/gvUDoCF6rs940dj6dk=",
         "owner": "nim-nix-pkgs",
         "repo": "pledge",
-        "rev": "e1ac517fc8f2768179bc278a536bd10c395c4480",
+        "rev": "6fb64e1d2573f7fb882e869d078ce76cd3a90b49",
         "type": "github"
       },
       "original": {
@@ -180,11 +180,11 @@
       },
       "locked": {
         "dir": "v1_1_1",
-        "lastModified": 1657153208,
-        "narHash": "sha256-z95m6cU10BSxQgGlDz93Falh1Frc8k16b/et+CAAQt0=",
+        "lastModified": 1658018184,
+        "narHash": "sha256-EyKMCJIubvn9UsyKjj5VF9d4/gvUDoCF6rs940dj6dk=",
         "owner": "nim-nix-pkgs",
         "repo": "pledge",
-        "rev": "e1ac517fc8f2768179bc278a536bd10c395c4480",
+        "rev": "6fb64e1d2573f7fb882e869d078ce76cd3a90b49",
         "type": "github"
       },
       "original": {
@@ -207,11 +207,11 @@
       },
       "locked": {
         "dir": "v2_0_0",
-        "lastModified": 1657153208,
-        "narHash": "sha256-z95m6cU10BSxQgGlDz93Falh1Frc8k16b/et+CAAQt0=",
+        "lastModified": 1658018184,
+        "narHash": "sha256-EyKMCJIubvn9UsyKjj5VF9d4/gvUDoCF6rs940dj6dk=",
         "owner": "nim-nix-pkgs",
         "repo": "pledge",
-        "rev": "e1ac517fc8f2768179bc278a536bd10c395c4480",
+        "rev": "6fb64e1d2573f7fb882e869d078ce76cd3a90b49",
         "type": "github"
       },
       "original": {
@@ -234,11 +234,11 @@
       },
       "locked": {
         "dir": "v2_0_1",
-        "lastModified": 1657153208,
-        "narHash": "sha256-z95m6cU10BSxQgGlDz93Falh1Frc8k16b/et+CAAQt0=",
+        "lastModified": 1658018184,
+        "narHash": "sha256-EyKMCJIubvn9UsyKjj5VF9d4/gvUDoCF6rs940dj6dk=",
         "owner": "nim-nix-pkgs",
         "repo": "pledge",
-        "rev": "e1ac517fc8f2768179bc278a536bd10c395c4480",
+        "rev": "6fb64e1d2573f7fb882e869d078ce76cd3a90b49",
         "type": "github"
       },
       "original": {
